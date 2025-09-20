@@ -1,0 +1,33 @@
+{
+    "next_id": 5,
+    "sessions": [
+        {
+            "file_name": "sessions_9647857788457.session",
+            "start_time": "2025-09-19T16:59:27.734196+03:00",
+            "temporary": false,
+            "user_id": 6387037514,
+            "id": 1
+        },
+        {
+            "file_name": "sessions_254795423975.session",
+            "start_time": "2025-09-20T09:58:32.874037+03:00",
+            "temporary": false,
+            "user_id": 6387037514,
+            "id": 2
+        },
+        {
+            "file_name": "sessions_254742746182.session",
+            "start_time": "2025-09-20T10:34:48.731224+03:00",
+            "temporary": false,
+            "user_id": 6387037514,
+            "id": 3
+        },
+        {
+            "file_name": "sessions_9647706698532.session",
+            "start_time": "2025-09-20T10:34:52.538680+03:00",
+            "temporary": false,
+            "user_id": 6387037514,
+            "id": 4
+        }
+    ]
+}
